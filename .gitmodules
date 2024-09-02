@@ -4,3 +4,9 @@
 [submodule "dwm"]
 	path = dwm
 	url = https://git.suckless.org/dwm
+[submodule ".config/rofi"] 
+	path = .config/rofi 
+	url = git@github.com:curiouslychase/content.git
+[submodule "rofi"]
+	path = rofi
+	url = https://github.com/adi1090x/rofi
