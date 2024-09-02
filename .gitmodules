@@ -1,0 +1,6 @@
+[submodule ".config/dwm"] 
+	path = .config/dwm 
+   url = git@github.com:sr/dwm.git
+[submodule "dwm"]
+	path = dwm
+	url = https://git.suckless.org/dwm
