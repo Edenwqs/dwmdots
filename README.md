@@ -39,3 +39,15 @@ hardware manager thing, probably in the official repos <br>
 
 --yazi <br>
 a tui file explorer potentially in official repos <br>
+
+## commands
+Super + Return -> open kitty <br>
+Super + [1-9] -> view tab 1-9 <br>
+Super + Shift + [1-9] -> move open application to tab 1-9 <br>
+Super + Shift + Q -> close application
+Super + Shift + E -> close dwm
+
+Super + D -> open rofi menu
+Alt + Shift + E -> open rofi powermenu
+
+everything is in the dwm/config.h file
